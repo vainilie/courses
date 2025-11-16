@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-curso-fundamentos/cronograma/","title":"Cronograma"}
+{"dg-publish":true,"permalink":"/01-CursoFundamentos/Cronograma/","title":"Cronograma"}
 ---
 
 
@@ -18,3 +18,7 @@
 | [[01-CursoFundamentos/01-Unidades/07-ProcesoDesarrollo/7. Proceso de desarrollo de software y conceptos generales\|7. Proceso de desarrollo de software y conceptos generales]] | [[01-CursoFundamentos/02-Actividades/7B. Actividad. Proceso de desarrollo de software\|7B. Actividad. Proceso de desarrollo de software]] (equipo de 2)                             | December 03, 2025 | 25% | [Ir](https://espacioeducativo.infotec.mx/mod/assign/view.php?id=61119&forceview=1) | 🔴 |
 
 { .block-language-dataview}
+
+---
+
+**Next:** [[01-CursoFundamentos/01-Unidades/01-FundamentosProgramacion/1. Fundamentos de programación\|1. Fundamentos de programación]]

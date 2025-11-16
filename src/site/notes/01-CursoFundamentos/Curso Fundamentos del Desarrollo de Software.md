@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-curso-fundamentos/curso-fundamentos-del-desarrollo-de-software/","title":"Curso Fundamentos del Desarrollo de Software"}
+{"dg-publish":true,"permalink":"/01-CursoFundamentos/Curso Fundamentos del Desarrollo de Software/","title":"Curso Fundamentos del Desarrollo de Software"}
 ---
 
 
@@ -18,7 +18,11 @@
 
 > [!bookmark|center] Links
 > - [Enlace al curso](https://espacioeducativo.infotec.mx/course/view.php?id=1228)
+> - [Presentación del curso](https://espacioeducativo.infotec.mx/mod/scorm/view.php?id=61100)
 > - [Guía del Curso](https://espacioeducativo.infotec.mx/pluginfile.php/163928/mod_scorm/content/9/story_content/external_files/GuiaCurso_IntroDS_2025.pdf)
 > - [Encuesta de Satisfacción](https://espacioeducativo.infotec.mx/mod/feedback/view.php?id=61098&forceview=1)
-> - [Presentación del curso](https://espacioeducativo.infotec.mx/mod/scorm/view.php?id=61100)
 > - [Repositorio](https://espacioeducativo.infotec.mx/course/view.php?id=1228&section=10)
+
+___
+
+**Next:** [[01-CursoFundamentos/Ruta de aprendizaje\|Ruta de aprendizaje]]

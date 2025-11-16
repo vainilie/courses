@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-curso-fundamentos/ruta-de-aprendizaje/","title":"Ruta de aprendizaje"}
+{"dg-publish":true,"permalink":"/01-CursoFundamentos/Ruta de aprendizaje/","title":"Ruta de aprendizaje"}
 ---
 
 
@@ -16,3 +16,7 @@
 - [[01-CursoFundamentos/01-Unidades/09-Git-ControlVersiones/9. Git - Control de Versiones\|9. Git - Control de Versiones]]
 
 { .block-language-dataview}
+
+---
+
+**Next:** [[01-CursoFundamentos/Cronograma\|Cronograma]]
