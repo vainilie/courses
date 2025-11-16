@@ -58,6 +58,23 @@ Usando PSeInt, realizamos un programa que maneja un arreglo multidimensional (un
 > FinAlgoritmo
 > ```
 
+> [!TIP] Output
+> Al ejecutarlo, pedirá los valores para cada elemento:
+> ```
+> Ingrese el valor para la posición [0,0]:
+> >
+> Ingrese el valor para la posición [0, 1]:
+> …
+> ```
+> Al ingresarlos todos, mostrará:
+> ```
+> La matriz ingresada es:
+> 11 12 13 14
+> 21 22 23 24
+> 31 32 33 34
+> 41 42 43 44
+> ```
+
 ## Código completo
 
 ```C++
