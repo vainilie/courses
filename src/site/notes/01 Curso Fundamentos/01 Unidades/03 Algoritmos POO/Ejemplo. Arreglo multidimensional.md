@@ -7,15 +7,14 @@
 
 Usando PSeInt, realizamos un programa que maneja un arreglo multidimensional (una matriz de 4x4) que captura los valores y muestra los datos.
 
-1. Siempre declarar el nombre del algoritmo en PSeInt.
-
-	```psc
-	Algoritmo Matriz4x4
-	```
+>[!IMPORTANT]  1\. Siempre declarar el nombre del algoritmo en PSeInt.
+>```C++
+>Algoritmo Matriz4x4
+>```
 
 2. Se declara el arreglo multidimensional, en este caso, un arreglo de dos dimensiones donde cada dimensión tiene 4 elementos. Es decir, un arreglo de 4 dentro de cada elemento del arreglo de 4.
 
-	```pseud
+	```C++
 		Definir matriz Como Entero
 		Dimension matriz[4, 4]
 	```
