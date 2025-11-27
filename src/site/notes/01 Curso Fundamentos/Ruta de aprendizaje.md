@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-curso-fundamentos/ruta-de-aprendizaje/","title":"Ruta de aprendizaje","contentClasses":"notebook","created":"2025-11-14 14:52","updated":"2025-11-27 01:00"}
+{"dg-publish":true,"permalink":"/01-curso-fundamentos/ruta-de-aprendizaje/","title":"Ruta de aprendizaje","contentClasses":"no-title","created":"2025-11-14 14:52","updated":"2025-11-27 01:13"}
 ---
 
 
