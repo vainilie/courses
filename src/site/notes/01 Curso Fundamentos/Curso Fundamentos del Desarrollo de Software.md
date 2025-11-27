@@ -3,6 +3,8 @@
 ---
 
 
+# Ruta de aprendizaje
+
 > [!info|center] Acerca del curso
 > - **Nombre del curso:** Fundamentos del Desarrollo de Software
 > - **Impartido por:** INFOTEC
