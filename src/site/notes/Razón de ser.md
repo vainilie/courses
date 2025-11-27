@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/razon-de-ser/","title":"Razón de ser","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/razon-de-ser/","title":"Razón de ser","tags":["gardenEntry"],"created":"2025-11-16 00:48","updated":"2025-11-26 18:34"}
 ---
 
 

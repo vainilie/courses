@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-curso-fundamentos/curso-fundamentos-del-desarrollo-de-software/","title":"Curso Fundamentos del Desarrollo de Software"}
+{"dg-publish":true,"permalink":"/01-curso-fundamentos/curso-fundamentos-del-desarrollo-de-software/","title":"Curso Fundamentos del Desarrollo de Software","created":"2025-11-14 14:52","updated":"2025-11-26 23:11"}
 ---
 
 

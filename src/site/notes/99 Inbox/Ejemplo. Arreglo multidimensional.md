@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-inbox/ejemplo-arreglo-multidimensional/","title":"Ejemplo. Arreglo multidimensional"}
+{"dg-publish":true,"permalink":"/99-inbox/ejemplo-arreglo-multidimensional/","title":"Ejemplo. Arreglo multidimensional","created":"2025-11-16 14:35","updated":"2025-11-26 18:34"}
 ---
 
 
